@@ -27,10 +27,10 @@ I'm a passionate developer with diverse interests spanning Full Stack Developmen
 
 ## 🔥 MORE PROJECTS
 
-| 💎 **[FareCast](https://github.com/vibieprince/FareCast)** | 🔄 **[PrintSmart](https://github.com/vibieprince/PrintSmart)** | 🧠 **[MITR SOS Device](https://github.com/vibieprince/MITR-SOS)** |
-|---|---|---|
+| 💎 **[FareCast](https://github.com/vibieprince/FareCast)** | 🔄 **[PrintSmart](https://github.com/vibieprince/PrintSmart)** |
+|---|---|
 | Dynamic ride fare prediction and surge pricing analytics platform powered by regression models ingesting real-time weather and traffic details via Google Maps & Open-Meteo APIs. | Campus document routing engine deploying a token-based FCFS queue scheduling framework with role-based access control (RBAC), slashing legacy waiting print times by 40%. | Embedded micro-AI public safety wearable device utilizing TensorFlow Lite Micro on an ESP32 to flag high-frequency scream audio triggers and broadcast instant geolocations. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-34495E?style=flat-square&logo=cloudinary&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-34495E?style=flat-square&logo=cloudinary&logoColor=white) |
 
 | 📦 **[E-Commerce Supply Chain Analytics](https://github.com/vibieprince/E-Commerce-Supply-Chain-Analytics-Project)** | 📊 **[Sales Analysis Project using DBT](https://github.com/vibieprince/SALES-ANALYTICS-DBT)** |
 |---|---|
@@ -87,7 +87,6 @@ Complete Certifications and Achievements at [Prince's Portfolio | Certifcations]
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
