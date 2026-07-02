@@ -1,0 +1,28 @@
+name: Generate GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every night at midnight
+  workflow_dispatch: # Permits manual push triggers from the UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v4
+
+      - name: Render Activity Metrics
+        uses: tshu-w/user-statistician@v1
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # Save a personal token inside your repository secrets
+          image_path: ./github-stats.svg
+          custom_colors: 'title_color=D85A30,icon_color=D85A30,text_color=c9d1d9,bg_color=0d1117'
+
+      - name: Push Asset Upstream
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg
+          git commit -m "chore: refresh profile activity tracking vectors" || exit 0
+          git push
